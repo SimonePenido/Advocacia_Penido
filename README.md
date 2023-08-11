@@ -1,7 +1,6 @@
-<h1 align="center">Advocacia Penido</h1>
+<h1>Penido Advocacia</h1>
 
-![logoadv](https://github.com/SimonePenido/Advocacia_Penido/assets/112627846/79b1975a-8cb9-4775-9d68-8aca3e1f6cb8)
-
+![logoadv](https://github.com/SimonePenido/Advocacia_Penido/assets/112627846/9c34dc08-3b46-42bd-917f-b85027add97e)
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
