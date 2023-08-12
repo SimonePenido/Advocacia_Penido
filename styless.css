@@ -41,7 +41,7 @@ h1, h2, h3 {
 }
 
 .secao-background-capa {
-    min-height: 350px;
+    min-height: 200px;
     background-image: url(img/capa1.png);
     background-size: cover;
    }
